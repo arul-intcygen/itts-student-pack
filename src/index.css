@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opsional: Tambahkan font default agar lebih rapi */
+body {
+  background-color: #f9fafb;
+}
